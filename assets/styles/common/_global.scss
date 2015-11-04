@@ -97,19 +97,15 @@ h2 {
 .header-content-block {
   padding: 50px 0px;
   font-weight: 300;
-
-
-h2 {
+  h2 {
     color: #f0c248;
     font-family: 'Open Sans', sans-serif;
     font-size: 36px;
   }
-
   p {
     font-size: 24px;
     color: #333333;
   }
-
   li {
     font-size: 18px;
     color: #333333;
@@ -120,25 +116,20 @@ h2 {
   background-color: #00589e;
   color: #ffffff;
   padding: 50px 0px;
-
-
   h3 {
     font-weight: 300;
     font-family: 'Open Sans Condensed', sans-serif;
-font-size: 36px;
+    font-size: 36px;
   }
-
   p {
     font-size: 16px;
     font-weight:100;
     font-family: 'Open Sans', sans-serif;
-
   }
-
   .fl-module-content .fl-icon,
   .fl-module-content .fl-icon i:before{
     display: table-cell;
     vertical-align: top;
     font-size: 50px !important;
-}
+  }
 }
